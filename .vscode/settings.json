@@ -3,6 +3,7 @@
     "cmake.useCMakePresets": "always",
     "files.associations": {
         "stdlib.h": "c",
-        "gpio.h": "c"
+        "gpio.h": "c",
+        "stdio.h": "c"
     }
 }
