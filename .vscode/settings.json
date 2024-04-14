@@ -2,7 +2,6 @@
     "cmake.configureOnEdit": false,
     "cmake.useCMakePresets": "always",
     "files.associations": {
-        "stdlib.h": "c",
-        "cyw43_arch.h": "c"
+        "stdlib.h": "c"
     }
 }
